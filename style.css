@@ -1,0 +1,17 @@
+body, html {
+    background-image: url("images/rainbowTrain.jpg");
+}
+
+
+.jumbotron{
+    background-color: rgb(102, 102, 160);
+
+  }
+
+  .card-header {
+      background-color: rgb(102, 102, 160);
+  }
+
+  .card-body {
+      background-color: rosybrown;
+  }
