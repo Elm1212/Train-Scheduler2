@@ -6,12 +6,12 @@ body, html {
 .jumbotron{
     background-color: rgb(102, 102, 160);
 
-  }
+}
 
-  .card-header {
-      background-color: rgb(102, 102, 160);
-  }
+.card-header {
+    background-color: rgb(102, 102, 160);
+}
 
-  .card-body {
-      background-color: rosybrown;
-  }
+.card-body {
+    background-color: rosybrown;
+}
